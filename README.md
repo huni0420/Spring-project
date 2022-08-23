@@ -22,7 +22,7 @@
 <br />
 <br />
 
-### 게시판 시연영상링크 입니다
+### >게시판 시연영상링크 입니다<
 https://www.youtube.com/watch?v=LLwl745J_Lo 
 <br />
 
